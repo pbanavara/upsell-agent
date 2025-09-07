@@ -1,0 +1,18 @@
+{
+  "name": "upsell-agent-fullstack",
+  "version": "1.0.0",
+  "description": "Full-stack Upsell Agent with Next.js frontend and FastAPI backend",
+  "scripts": {
+    "start": "./start.sh",
+    "dev": "concurrently \"python api_server.py\" \"cd frontend && npm run dev\"",
+    "backend": "python api_server.py",
+    "frontend": "cd frontend && npm run dev",
+    "install-all": "pip install -r requirements.txt && cd frontend && npm install"
+  },
+  "keywords": ["upsell", "ai", "agent", "crewai", "nextjs", "fastapi"],
+  "author": "Upsell Agent Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

@@ -1,0 +1,30 @@
+Customer Upsell Opportunities:
+1. User ID: user_121
+   - Opportunity type: Viewed high-value product
+   - Reasoning: User viewed "Advanced Marketing Automation" ($349)
+   - Recommended action: Engage user for an upgrade to an enterprise plan.
+
+2. User ID: user_173
+   - Opportunity type: Frequently used premium feature
+   - Reasoning: User has used "Real-time Monitoring" 41 times
+   - Recommended action: Offer additional premium features or a higher plan.
+
+3. User ID: user_119
+   - Opportunity type: Usage limit reached
+   - Reasoning: User reached limit of automation rules (716/716) on a basic plan
+   - Recommended action: Recommend upgrading to a plan that offers more automation rules.
+
+4. User ID: user_067
+   - Opportunity type: Usage limit reached
+   - Reasoning: User reached limit of workflows (8441/8000)
+   - Recommended action: Suggest an upgrade to accommodate their usage.
+
+5. User ID: user_186
+   - Opportunity type: Engaged with multiple product categories
+   - Reasoning: User frequently views various products including "Advanced Security Monitoring", "Mobile App SDK", etc.
+   - Recommended action: Encourage to purchase an all-in-one package.
+
+6. User ID: user_154
+   - Opportunity type: Usage limit reached
+   - Reasoning: User reached limit of social posts (6151/6000)
+   - Recommended action: Propose an upgrade to enhance their capability.

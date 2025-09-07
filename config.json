@@ -1,0 +1,5 @@
+{
+  "posthog_api_key": "YOUR_POSTHOG_API_KEY_HERE",
+  "posthog_project_id": "YOUR_POSTHOG_PROJECT_ID_HERE",
+  "events_file": "sample_events.json"
+}
